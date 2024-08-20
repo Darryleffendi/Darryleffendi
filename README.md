@@ -8,8 +8,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23EE8800.svg?logo=Gmail&logoColor=white)](mailto:darryleffendi@gmail.com) 
 
 <div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=darryleffendi&theme=monokai&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="height: 195px; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darryleffendi&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 195px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=darryleffendi&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&rank_icon=github" alt="GitHub Stats" style="height: 195px; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darryleffendi&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" style="height: 195px;">
 </div>
 
 ## Tech Stack:
