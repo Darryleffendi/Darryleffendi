@@ -7,10 +7,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@darryleffendi) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23EE8800.svg?logo=Gmail&logoColor=white)](mailto:darryleffendi@gmail.com) 
 
-<div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darryleffendi&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" style="height: 195px;">
-</div>
-
 ### Tech Stack:
 
 > *Frontend*
